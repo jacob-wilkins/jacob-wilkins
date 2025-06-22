@@ -4,11 +4,11 @@
 <p align="center">📫 How to reach me: <strong>jacobwilkins2003@gmail.com</strong></p>
 
 <p align="center">📄 Know about my experiences: 
-<a href="https://drive.google.com/file/d/1XBJsmimR5xj03YQM1Ps29NdVmqvHpml3/view?usp=sharing" target="_blank">Resume Link</a></p>
+<a href="https://drive.google.com/file/d/1XBJsmimR5xj03YQM1Ps29NdVmqvHpml3/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/jacob-j-wilkins" target="blank">
+  <a href="https://linkedin.com/in/jacob-j-wilkins" target="blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob-j-wilkins" height="30" width="40" />
   </a>
 </p>
